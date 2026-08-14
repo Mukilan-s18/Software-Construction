@@ -1,10 +1,9 @@
 # Software Construction 🏗️💻
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![CI/CD: GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue.svg)](https://github.com/features/actions)
 
 ## 📌 Project Overview
-This repository contains the laboratory experiments, assignments, and coursework for the **Software Construction** course. It serves as a comprehensive guide covering various software engineering principles, design patterns, software architecture models, and hands-on experiments that demonstrate modern software development lifecycle (SDLC) practices.
+This repository contains the laboratory experiments, assignments, and coursework for the **Software Construction** course. The documents focus on software engineering principles, design patterns, and architecture modeling.
 
 ## 🗂️ Laboratory Experiments
 
@@ -21,18 +20,10 @@ This repository contains the laboratory experiments, assignments, and coursework
 | 9 | [Experiment 9](./Exp%209.pdf) |
 | 10 | [Experiment 10](./Exp%2010.pdf) |
 
-## 🛠️ Tech Stack & Concepts Covered
-* **Software Architecture & Design Patterns**
-* **Object-Oriented Analysis and Design (OOAD)**
-* **Unified Modeling Language (UML)**
-* **Agile & DevOps Principles**
-* **Continuous Integration / Continuous Deployment (CI/CD)**
-
-## 🚀 CI/CD Integration Details
-This project embraces modern DevOps practices by integrating Continuous Integration (CI) and Continuous Deployment (CD) workflows. 
-* **Automated Workflows:** Configured to automatically validate documents and project artifacts upon every push or pull request to the main branch.
-* **Quality Assurance:** Ensures that all software design artifacts and code integrations adhere to high-quality standards before deployment.
-* **Platform:** Leverages CI/CD tools to streamline the software development lifecycle.
+## 🛠️ Concepts Covered
+* Object-Oriented Analysis and Design (OOAD)
+* Unified Modeling Language (UML)
+* Software Architecture & Design Patterns
 
 ---
 *Maintained by [Mukilan S](https://github.com/Mukilan-s18)*
