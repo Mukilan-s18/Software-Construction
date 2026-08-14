@@ -27,8 +27,5 @@ This repository contains the laboratory experiments, assignments, and coursework
 * **Agile & DevOps Principles**
 * **Continuous Integration**
 
-## 🚀 CI/CD Integration
-This repository includes an Azure Pipelines configuration (`azure-pipelines.yml`) to demonstrate continuous integration workflows.
 
----
 *Maintained by [Mukilan S](https://github.com/Mukilan-s18)*
